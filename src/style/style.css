@@ -1,0 +1,12 @@
+* {
+   margin: 0;
+   padding: 0; 
+}
+
+body {
+    background-image: url('../img/body_background.png');
+    background-repeat: repeat-y;
+    background-color: #27180d;
+    background-position: center top;
+    font-family: 'OswaldBook', Arial, sans-serif;
+}
